@@ -1,1 +1,1 @@
-Se desarroll+o este programa para que muestre el mensaje: "HOLA MUNDO"
+Se desarrolla este programa para que muestre el mensaje: "HOLA MUNDO"
