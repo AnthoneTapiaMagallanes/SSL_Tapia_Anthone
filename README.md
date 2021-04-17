@@ -1,2 +1,2 @@
 # SSL_Tapia_Anthone
-Repositorio TP0
+Este es mi primer repositorio para la cursada de Sintaxis y Semántica de Lenguajes
